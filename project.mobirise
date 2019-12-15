@@ -61,8 +61,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Shane Thacker",
+        "meta_descr": "Assignment 1 COSC2196 My Profile",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
